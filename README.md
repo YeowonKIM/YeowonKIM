@@ -4,6 +4,8 @@
 
 - 🖥️ BackEnd Developer
 - 🎓 I majored in French & Software Engineering
+- 👀 Skills : Java | Spring | Spring Boot | MySQL | Python |  AWS  
+- 🔨 Tools :  Git  |  IntelliJ IDEA  | Notion 
 - 📫 How to reach me : https://fraisekim.tistory.com/ <br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://www.instagram.com/kk_y_oo1/
 
