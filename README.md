@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YeowonKIM
-- 👀 I’m interested in programming and French.
+- 🎓 I majored in French & Software Engineering
 - 📫 How to reach me : https://fraisekim.tistory.com/ https://www.instagram.com/kk_y_oo1/
 -                      
 
