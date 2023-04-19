@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @YeowonKIM
 - 🎓 I majored in French & Software Engineering
+- 🖥️ Tech Stack : Java | Spring | Spring Boot | MySQL | Python | Git | IntelliJ IDEA
 - 📫 How to reach me : https://fraisekim.tistory.com/ | https://www.instagram.com/kk_y_oo1/
                 
 
