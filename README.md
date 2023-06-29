@@ -7,8 +7,7 @@
 - 👀 Skills : Java | Spring Boot | MySQL | Python |  AWS  
 - 🔨 Tools :  Git  |  IntelliJ IDEA  | Jupyter Notebook | VS Code | Notion 
 - 📫 How to reach me : kkyoo152@gmail.com<br>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://fraisekim.tistory.com/ 
-
+ 
 <br><br>
 
 
