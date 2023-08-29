@@ -3,7 +3,7 @@
 <br>
 
 - 🖥️ BackEnd Developer
-- 🎓 I majored in French & Software Engineering
+- 🎓 I majored in Software Engineering & French
 - 👀 Skills : Java | Spring | MySQL | Python |  AWS  
 - 🔨 Tools :  Git  |  IntelliJ IDEA  | Jupyter Notebook | VS Code 
 - 📫 How to reach me : kkyoo152@gmail.com<br>
