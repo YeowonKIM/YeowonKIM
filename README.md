@@ -1,5 +1,5 @@
 
-### 👋 Hi, I’m @YeowonKIM
+### 👋 Hi, I’m YeowonKIM
 <br>
 
 - 🖥️ BackEnd Developer
@@ -9,8 +9,6 @@
 - 📫 How to reach me : kkyoo152@gmail.com<br>
  
 <br><br>
-
-
 
 
 
