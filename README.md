@@ -4,9 +4,22 @@
 
 - 🖥️ BackEnd Developer
 - 🎓 I majored in Software Engineering & French
-- 👀 Skills : Java | Spring | MySQL | Python |  AWS  
-- 🔨 Tools :  Git  |  IntelliJ IDEA  | Jupyter Notebook | VS Code 
-- 📫 How to reach me : kkyoo152@gmail.com<br>
+
+  <br>
+
+### ⚒️ Skills
+- Language & Framework
+  - Java | Spring, SpringBoot | Python | Flask
+- DB & Sever
+  - MySQL | OracleDB | NGINX | Apche Tomcat
+- ⚙️ DevOps & Environments
+  - Docker | Gradle | Git, Github | AWS | Linux
+- ☑️ Test
+  - Junit5 | Apache Jmeter
+
+   <br>
+   
+#### 📫 How to reach me : kkyoo152@gmail.com<br>
  
 <br><br>
 
