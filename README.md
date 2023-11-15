@@ -1,6 +1,6 @@
 
-### 👋 Hi, I’m YeowonKIM
-<br>
+## 👋 Hi, I’m YeowonKIM
+
 
 - 🖥️ BackEnd Developer
 - 🎓 I majored in Software Engineering & French
@@ -8,18 +8,11 @@
   <br>
 
 ### ⚒️ Skills
-- Language & Framework
-  - Java | Spring, SpringBoot | Python | Flask
-- DB & Sever
-  - MySQL | OracleDB | NGINX | Apche Tomcat
-- ⚙️ DevOps & Environments
-  - Docker | Gradle | Git, Github | AWS | Linux
-- ☑️ Test
-  - Junit5 | Apache Jmeter
-
-   <br>
+- **Language & Framework** : Java | Spring, SpringBoot | Python | Flask
+- **DB & Sever** : MySQL | OracleDB | NGINX | Apche Tomcat
+- **DevOps & Environments** : Docker | Gradle | Git, Github | AWS | Linux
+- **Test** : Junit5 | Apache Jmeter
    
-#### 📫 How to reach me : kkyoo152@gmail.com<br>
  
 <br><br>
 
